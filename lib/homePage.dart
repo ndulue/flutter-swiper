@@ -46,7 +46,7 @@ class _HomePageState extends State<HomePage> {
                         items: [
                           DropdownMenuItem(
                               child: Text(
-                                'Solar System',
+                                'Soccer',
                                 style: TextStyle(
                                   fontFamily: 'Avenir',
                                   fontSize: 24,

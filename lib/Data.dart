@@ -20,7 +20,7 @@ List<PlanetInfo> planets = [
       name: 'Barcelona',
       iconImage: 'assets/teams/barce.png',
       description:
-      "Zipping arround the sun in only 184 days",
+      "Barcelona, commonly referred to as Barcelona and colloquially known as Barça, is a Spanish professional football club based in Barcelona, Catalonia, Spain",
       images: [
         'assets/teams/barce1.jpg',
         'assets/teams/barce2.jpg',
@@ -32,7 +32,7 @@ List<PlanetInfo> planets = [
       name: 'Bayern',
       iconImage: 'assets/teams/bayern.png',
       description:
-      "Zipping arround the sun in only 184 days",
+      "Bayern München e.V., commonly known as FC Bayern München, FCB, Bayern Munich, or FC Bayern, is a German professional sports club based in Munich, Bavaria",
       images: [
         'assets/teams/bayern1.webp',
         'assets/teams/bayern2.jpg',
